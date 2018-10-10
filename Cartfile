@@ -1,1 +1,1 @@
-github "facebook/facebook-objc-sdk" == 4.37.0
+github "pkarc/facebook-objc-sdk" "update-bolt-v"
